@@ -18,3 +18,5 @@ public class ForgetfulMachine {
     System.out.println();
   }
 }
+// The second question blows up when I type a word or fractional number is entered
+// The third question blows up when I type a word
