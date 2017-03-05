@@ -18,7 +18,7 @@ public class BooleanExpressions {
     e = (x >  y);
     f = (x >= y);
 
-    System.out.println( x + " is LESS THAN " + y + ": " + a );
+    System.out.println( "\n" + x + " is LESS THAN " + y + ": " + a );
     System.out.println( x + " is LESS THAN / EQUAL TO " + y + ": " + b );
     System.out.println( x + " is EQUAL TO " + y + ": " + c );
     System.out.println( x + " is NOT EQUAL TO " + y + ": " + d );
