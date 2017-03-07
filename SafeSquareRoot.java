@@ -20,8 +20,8 @@ public class SafeSquareRoot {
     x = keyboard.nextDouble();
 
     while ( x < 0 ) {
-      System.out.println("\nI won't take the squre root of a negative." );
-      System.out.print("\nNew number, please: " );
+      System.out.println("\nI won't take the square root of a negative." );
+      System.out.print("\nPlease enter a positive number: " );
       x = keyboard.nextDouble();
     }
 
