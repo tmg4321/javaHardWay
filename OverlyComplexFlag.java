@@ -39,7 +39,7 @@ public class OverlyComplexFlag {
   }
 
   public static void print5Stars() {
-    out.print( "|  *  *  *  *  *   " );
+    out.print( "|   *  *  *  *  *  " );
   }
 
   public static void printSixStarLine() {
