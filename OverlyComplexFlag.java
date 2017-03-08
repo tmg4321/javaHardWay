@@ -19,7 +19,7 @@ public class OverlyComplexFlag {
   }
 
   public static void print48Ohs() {
-    out.println( "|OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|" );
+    out.println("|OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|" );
   }
 
   public static void print29Colons() {
